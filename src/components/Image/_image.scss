@@ -1,0 +1,9 @@
+.photo-container {
+  display: flex;
+  padding-bottom: 1rem;
+  .photo-detail-container {
+    display: flex;
+    align-items: center;
+    padding: 0 2rem;
+  }
+}

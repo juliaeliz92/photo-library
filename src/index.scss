@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@import 'carbon-components/scss/globals/scss/styles.scss';
+
+$feature-flags: (
+  grid-columns-16: true,
+);
